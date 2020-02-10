@@ -16,14 +16,14 @@ You are ready to go!
 ## What encodings are currently supported?
 Currently, any Filmic Base Log Encoding files should work seamlessly. Simply save your imagery with the Filmic Base Log
 Encoding, and load them into your media gallery within Resolve. Once inside Resolve, the default output will be displayed
-with the flatter Filmic Base Log Encoding appearance, and the full selection of Filmic aesthetic lookups are available
+with the flatter Filmic Base Log Encoding appearance, ~~and the full selection of Filmic aesthetic lookups are available
 from the `Color` workspace, under the `LUTs` sub-workspace. Select an aesthetic contrast and you can refine the grade accordingly.
 
 The Fusion tab within Resolve should receive the Timeline based scene linear radiometric data as well, allowing you to
 perform proper radiometrically referred compositing.
 
 ## What currently isn't supported?
-At this juncture, loading directly from scene linear EXRs is not yet supported.
+Currently the aesthetic contrast lookups are not working. In addition to this, loading directly from scene linear EXRs is not yet supported.
 
 ## What is the colourimetry of Filmic?
 Please see the original repository for full colourimetry information.
