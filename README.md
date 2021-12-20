@@ -1,4 +1,6 @@
-# Filmic Resolve
+# Filmic Resolve - NOT FULLY WORKING
+## TL;DR
+Encode to Filmic Log Base Encoding, and apply the contrasts as you desire. Do not try to use EXRs as it will be the wrong transform currently.
 ## What is it?
 This is a repository to use [Filmic](https://github.com/sobotka/filmic-blender) in Resolve. It will allow you to
 work seamlessly in Resolve wiith Filmic Base Log Encoded files.
